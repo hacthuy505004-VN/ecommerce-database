@@ -1,13 +1,14 @@
-# E-commerce Database System
+## E-commerce Database System
 
 ## Overview
 Dự án này mô phỏng một hệ thống cơ sở dữ liệu thương mại điện tử bao gồm người dùng, sản phẩm, đơn đặt hàng và thanh toán.
 
 ## Features
-- Design relational database (Users, Products, Orders, OrderItems)
-- Stored Procedure with transaction handling
-- Trigger automation
-- Query analysis (Top customers, best-selling products)
+- Thiết kế cơ sở dữ liệu quan hệ (Users, Products, Orders, OrderItems)
+- Sử dụng Stored Procedure với xử lý Transaction
+- Trigger tự động hóa
+- Tối ưu hiệu năng bằng Index
+- Truy vấn phân tích (khách hàng, sản phẩm)
 
 ## Technologies
 - SQL Server
