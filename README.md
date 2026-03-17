@@ -1,7 +1,7 @@
 # E-commerce Database System
 
 ## 📌 Overview
-This project simulates an e-commerce database system including users, products, orders, and payments.
+Dự án này mô phỏng một hệ thống cơ sở dữ liệu thương mại điện tử bao gồm người dùng, sản phẩm, đơn đặt hàng và thanh toán.
 
 ## 🧱 Features
 - Design relational database (Users, Products, Orders, OrderItems)
