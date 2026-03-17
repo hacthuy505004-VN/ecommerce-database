@@ -1,18 +1,18 @@
 # E-commerce Database System
 
-## 📌 Overview
+## Overview
 Dự án này mô phỏng một hệ thống cơ sở dữ liệu thương mại điện tử bao gồm người dùng, sản phẩm, đơn đặt hàng và thanh toán.
 
-## 🧱 Features
+## Features
 - Design relational database (Users, Products, Orders, OrderItems)
 - Stored Procedure with transaction handling
 - Trigger automation
 - Query analysis (Top customers, best-selling products)
 
-## 🚀 Technologies
+## Technologies
 - SQL Server
 
-## ▶️ How to run
+## How to run
 1. Run create_tables.sql
 2. Run insert_data.sql
 3. Run procedures.sql
@@ -21,9 +21,9 @@ Dự án này mô phỏng một hệ thống cơ sở dữ liệu thương mại
 
 ---
 
-## 📊 Example Queries
+## Example Queries
 
-### Top customers by spending
+## Top customers by spending
 ```sql
 SELECT u.name, SUM(o.total_amount) AS total_spent
 FROM Orders o
